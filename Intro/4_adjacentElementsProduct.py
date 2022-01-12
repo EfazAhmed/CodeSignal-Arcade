@@ -1,3 +1,5 @@
+import math
+
 def solution(inputArray):
     temp = -1 * math.inf
     for i in range(len(inputArray)-1):
