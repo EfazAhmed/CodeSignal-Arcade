@@ -79,85 +79,118 @@
   
 #### Island of Knowledge
 
-|#| Title |
-|:------------:|---------|
-|19|areEquallyStrong
-|20|arrayMaximalAdjacentDifference
-|21|isIPv4Address
-|22|avoidObstacles
-|23|Box Blur
-|24|Minesweeper
+<table>
+<tr>
+    <td>19. areEquallyStrong</td>
+    <td>20. arrayMaximalAdjacentDifference</td>
+    <td>21. isIPv4Address</td>
+</tr>
+<tr>
+    <td>22. avoidObstacles</td>
+    <td>23. Box Blur</td>
+    <td>24. Minesweeper</td>
+</tr>
+</table>
 
 #### Rains of Reason
 
-|#| Title |
-|:------------:|---------|
-|25|Array Replace
-|26|evenDigitsOnly
-|27|variableName
-|28|alphabetShift
-|29|chessBoardCellColor
+<table>
+<tr>
+    <td>25. Array Replace</td>
+    <td>26. evenDigitsOnly</td>
+    <td>27. variableName</td>
+</tr>
+<tr>
+    <td>28. alphabetShift</td>
+    <td>29. chessBoardCellColor</td>
+</tr>
+</table>
 
 #### Through the Fog
 
-|#| Title |
-|:------------:|---------|
-|30|Circle of Numbers
-|31|depositProfit
-|32|absoluteValuesSumMinimization
-|33|stringsRearrangement
+<table>
+<tr>
+    <td>30. Circle of Numbers</td>
+    <td>31. depositProfit</td>
+    <td>32. absoluteValuesSumMinimization</td>
+</tr>
+<tr>
+    <td>33. stringsRearrangement</td>
+</tr>
+</table>
 
 #### Diving Deeper
 
-|#| Title |
-|:------------:|---------|
-|34|exactEachKth
-|35|firstDigit
-|36|differentSymbolsNaive
-|37|arrayMaxConsecutiveSum
+<table>
+<tr>
+    <td>34. exactEachKth</td>
+    <td>35. firstDigit</td>
+    <td>36. differentSymbolsNaive</td>
+</tr>
+<tr>
+    <td>37. arrayMaxConsecutiveSum</td>
+</tr>
+</table>
 
 #### Dark Wilderness
 
-|#| Title |
-|:------------:|---------|
-|38|growingPlant
-|39|Knapsack Light
-|40|longestDigitsPrefix
-|41|digitDegree
-|42|Bishop and Pawn
+<table>
+<tr>
+    <td>38. growingPlant</td>
+    <td>39. Knapsack Light</td>
+    <td>40. longestDigitsPrefix</td>
+</tr>
+<tr>
+    <td>41. digitDegree</td>
+    <td>42. Bishop and Pawn</td>
+</tr>
+</table>
 
 #### Eruption of Light
 
-|#| Title |
-|:------------:|---------|
-|43|isBeautifulString
-|44|Find Email Domain
-|45|buildPalindrome
-|46|Elections Winners
-|47|Is MAC48 Address?
+<table>
+<tr>
+    <td>43. isBeautifulString</td>
+    <td>44. Find Email Domain</td>
+    <td>45. buildPalindrome</td>
+</tr>
+<tr>
+    <td>46. Elections Winners</td>
+    <td>47. Is MAC48 Address?</td>
+</tr>
+</table>
 
 #### Rainbow of Clarity
 
-|#| Title |
-|:------------:|---------|
-|48|isDigit
-|49|lineEncoding
-|50|chessKnight
-|51|deleteDigit
+<table>
+<tr>
+    <td>48. isDigit</td>
+    <td>49. lineEncoding</td>
+    <td>50. chessKnight</td>
+</tr>
+<tr>
+    <td>51. deleteDigit</td>
+</tr>
+</table>
 
 #### Land of Logic
 
-|#| Title |
-|:------------:|---------|
-|52|longestWord
-|53|Valid Time
-|54|sumUpNumbers
-|55|Different Squares
-|56|digitsProduct
-|57|File Naming
-|58|messageFromBinaryCode
-|59|spiralNumbers
-|60|Sudoku
-
+<table>
+<tr>
+    <td>52. longestWord</td>
+    <td>53. Valid Time</td>
+    <td>54. sumUpNumbers</td>
+</tr>
+<tr>
+    <td>55. Different Squares</td>
+    <td>56. digitsProduct</td>
+    <td>57. File Naming</td>
+</tr>
+<tr>
+    <td>58. messageFromBinaryCode</td>
+    <td>59. spiralNumbers</td>
+    <td>60. Sudoku</td>
+</tr>
+</table>
 
 
