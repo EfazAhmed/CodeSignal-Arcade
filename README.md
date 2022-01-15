@@ -23,173 +23,110 @@
 #### The Journey Begins
 
 
-<table>
-<tr>
-    <td>1. add</td>
-    <td>2. centuryFromYear</td>
-    <td>3. checkPalindrome</td>
-</tr>
-</table>
+1. add
+2. centuryFromYear
+3. checkPalindrome
 
 
 #### Edge of the Ocean
 
-<table>
-<tr>
-    <td>4. adjacentElementsProduct</td>
-    <td>5. shapeArea</td>
-    <td>6. Make Array Consecutive 2</td>
-</tr>
-<tr>
-    <td>7. almostIncreasingSequence</td>
-    <td>8. matrixElementsSum</td>
+4. adjacentElementsProduct
+5. shapeArea
+6. Make Array Consecutive 2
+7. almostIncreasingSequence
+8. matrixElementsSum
 
-</tr>
-</table>
-    
+
 #### Smooth Sailing
 
-<table>
-<tr>
-    <td>9. All Longest Strings</td>
-    <td>10. commonCharacterCount</td>
-    <td>11. isLucky</td>
-</tr>
-<tr>
-    <td>12. Sort by Height</td>
-    <td>13. reverseInParentheses</td>
+9. All Longest Strings
+10. commonCharacterCount
+11. isLucky
+12. Sort by Height
+13. reverseInParentheses
 
-</tr>
-</table>
+
     
 #### Exploring the Waters
 
-<table>
-<tr>
-    <td>14. alternatingSums</td>
-    <td>15. Add Border</td>
-    <td>16. Are Similar?</td>
-</tr>
-<tr>
-    <td>17. arrayChange</td>
-    <td>18. palindromeRearranging</td>
+14. alternatingSums
+15. Add Border
+16. Are Similar?
+17. arrayChange
+18. palindromeRearranging
 
-</tr>
-</table>
-  
+
 #### Island of Knowledge
 
-<table>
-<tr>
-    <td>19. areEquallyStrong</td>
-    <td>20. arrayMaximalAdjacentDifference</td>
-    <td>21. isIPv4Address</td>
-</tr>
-<tr>
-    <td>22. avoidObstacles</td>
-    <td>23. Box Blur</td>
-    <td>24. Minesweeper</td>
-</tr>
-</table>
+19. areEquallyStrong
+20. arrayMaximalAdjacentDifference
+21. isIPv4Address
+22. avoidObstacles
+23. Box Blur
+24. Minesweeper
+
 
 #### Rains of Reason
 
-<table>
-<tr>
-    <td>25. Array Replace</td>
-    <td>26. evenDigitsOnly</td>
-    <td>27. variableName</td>
-</tr>
-<tr>
-    <td>28. alphabetShift</td>
-    <td>29. chessBoardCellColor</td>
-</tr>
-</table>
+
+25. Array Replace
+26. evenDigitsOnly
+27. variableName
+28. alphabetShift
+29. chessBoardCellColor
+
 
 #### Through the Fog
 
-<table>
-<tr>
-    <td>30. Circle of Numbers</td>
-    <td>31. depositProfit</td>
-    <td>32. absoluteValuesSumMinimization</td>
-</tr>
-<tr>
-    <td>33. stringsRearrangement</td>
-</tr>
-</table>
+30. Circle of Numbers
+31. depositProfit
+32. absoluteValuesSumMinimization
+33. stringsRearrangement
+
 
 #### Diving Deeper
 
-<table>
-<tr>
-    <td>34. exactEachKth</td>
-    <td>35. firstDigit</td>
-    <td>36. differentSymbolsNaive</td>
-</tr>
-<tr>
-    <td>37. arrayMaxConsecutiveSum</td>
-</tr>
-</table>
+34. exactEachKth
+35. firstDigit
+36. differentSymbolsNaive
+37. arrayMaxConsecutiveSum
 
 #### Dark Wilderness
 
-<table>
-<tr>
-    <td>38. growingPlant</td>
-    <td>39. Knapsack Light</td>
-    <td>40. longestDigitsPrefix</td>
-</tr>
-<tr>
-    <td>41. digitDegree</td>
-    <td>42. Bishop and Pawn</td>
-</tr>
-</table>
+38. growingPlant
+39. Knapsack Light
+40. longestDigitsPrefix
+41. digitDegree
+42. Bishop and Pawn
+
 
 #### Eruption of Light
 
-<table>
-<tr>
-    <td>43. isBeautifulString</td>
-    <td>44. Find Email Domain</td>
-    <td>45. buildPalindrome</td>
-</tr>
-<tr>
-    <td>46. Elections Winners</td>
-    <td>47. Is MAC48 Address?</td>
-</tr>
-</table>
+43. isBeautifulString
+44. Find Email Domain
+45. buildPalindrome
+46. Elections Winners
+47. Is MAC48 Address?
 
 #### Rainbow of Clarity
 
-<table>
-<tr>
-    <td>48. isDigit</td>
-    <td>49. lineEncoding</td>
-    <td>50. chessKnight</td>
-</tr>
-<tr>
-    <td>51. deleteDigit</td>
-</tr>
-</table>
+48. isDigit
+49. lineEncoding
+50. chessKnight
+51. deleteDigit
+
 
 #### Land of Logic
 
-<table>
-<tr>
-    <td>52. longestWord</td>
-    <td>53. Valid Time</td>
-    <td>54. sumUpNumbers</td>
-</tr>
-<tr>
-    <td>55. Different Squares</td>
-    <td>56. digitsProduct</td>
-    <td>57. File Naming</td>
-</tr>
-<tr>
-    <td>58. messageFromBinaryCode</td>
-    <td>59. spiralNumbers</td>
-    <td>60. Sudoku</td>
+52. longestWord
+53. Valid Time
+54. sumUpNumbers
+55. Different Squares
+56. digitsProduct
+57. File Naming
+58. messageFromBinaryCode
+59. spiralNumbers
+60. Sudoku
 </tr>
 </table>
 
