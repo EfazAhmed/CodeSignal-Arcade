@@ -13,60 +13,70 @@
     - [(43-47) Eruption of Light](#Eruption-of-Light)
     - [(48-51) Rainbow of Clarity](#Rainbow-of-Clarity)
     - [(52-60) Land of Logic](#Land-of-Logic) -->
-# CodeSignal Arcade
 
-# Intro 
-<img src="https://cdn.dribbble.com/users/2077073/screenshots/6547756/codesignal.gif" alt="icon" width="100">
+#### Hello and Welcome to my Page! Here I will be updating my coding progress through a technical coding platform called [CodeSignal](https://codesignal.com/). They provide a plethora of coding questions to help student developers, like myself, hone the skills needed to crack the coding interview.
+
+###### Feel free  to comment on any of my solutions and suggest alternate solutions that are more efficient.
+
+## Intro
 
 #### The Journey Begins
 
-<table>
-    <tr>
-        <td colspan="2">The Journey Begins</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>add</td>
-    </tr>
-</table>
 
-|#| Title |
-|:------------:|---------|
-|1|add
-|2|centuryFromYear
-|3|checkPalindrome
+<table>
+<tr>
+    <td>1. add</td>
+    <td>2. centuryFromYear</td>
+    <td>3. checkPalindrome</td>
+</tr>
+</table>
 
 
 #### Edge of the Ocean
 
-|#| Title |
-|:------------:|---------|
-|4|adjacentElementsProduct
-|5|shapeArea
-|6|Make Array Consecutive 2
-|7|almostIncreasingSequence
-|8|matrixElementsSum
+<table>
+<tr>
+    <td>4. adjacentElementsProduct</td>
+    <td>5. shapeArea</td>
+    <td>6. Make Array Consecutive 2</td>
+</tr>
+<tr>
+    <td>7. almostIncreasingSequence</td>
+    <td>8. matrixElementsSum</td>
+
+</tr>
+</table>
     
 #### Smooth Sailing
 
-|#| Title |
-|:------------:|---------|
-|9|All Longest Strings
-|10|commonCharacterCount
-|11|isLucky
-|12|Sort by Height
-|13|reverseInParentheses
+<table>
+<tr>
+    <td>9. All Longest Strings</td>
+    <td>10. commonCharacterCount</td>
+    <td>11. isLucky</td>
+</tr>
+<tr>
+    <td>12. Sort by Height</td>
+    <td>13. reverseInParentheses</td>
+
+</tr>
+</table>
     
 #### Exploring the Waters
 
-|#| Title |
-|:------------:|---------|
-|14|alternatingSums
-|15|Add Border
-|16|Are Similar?
-|17|arrayChange
-|18|palindromeRearranging
-    
+<table>
+<tr>
+    <td>14. alternatingSums</td>
+    <td>15. Add Border</td>
+    <td>16. Are Similar?</td>
+</tr>
+<tr>
+    <td>17. arrayChange</td>
+    <td>18. palindromeRearranging</td>
+
+</tr>
+</table>
+  
 #### Island of Knowledge
 
 |#| Title |
