@@ -3,23 +3,22 @@
 
 <font size=6>Intro</font>
 
-<div class="grid-container">
-    
-<div class="flex">
 
-<div class="table">
-<p>The Journey Begins</p>
+***<font size=4>The Journey Beings</font>***
+
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
-|1|add &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+|1|add
 |2|centuryFromYear
 |3|checkPalindrome
     
-</div>
+</font>
 
-<div class="table">
-<p>Edge of the Ocean</p>
+***<font size=4>Edge of the Ocean</font>***
+
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -29,10 +28,11 @@
 |7|almostIncreasingSequence
 |8|matrixElementsSum
     
-</div>
+</font>
+    
+***<font size=4>Smooth Sailing</font>***
 
-<div class="table">
-<p>Smooth Sailing</p>
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -42,10 +42,11 @@
 |12|Sort by Height
 |13|reverseInParentheses
     
-</div>
+</font>
+    
+***<font size=4>Exploring the Waters</font>***
 
-<div class="table">
-<p>Exploring the Waters</p>
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -54,11 +55,12 @@
 |16|Are Similar?
 |17|arrayChange
 |18|palindromeRearranging
+    
+</font>
 
-</div>
+***<font size=4>Island of Knowledge</font>***
 
-<div class="table">
-<p>Island of Knowledge</p>
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -68,11 +70,12 @@
 |22|avoidObstacles
 |23|Box Blur
 |24|Minesweeper
-
-</div>
     
-<div class="table">
-<p>Rains of Reason</p>
+</font>
+
+***<font size=4>Rains of Reason</font>***
+
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -82,10 +85,11 @@
 |28|alphabetShift
 |29|chessBoardCellColor
 
-</div>
-    
-<div class="table">
-<p>Through the Fog</p>
+</font>
+
+***<font size=4>Through the Fog</font>***
+
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -94,29 +98,11 @@
 |32|absoluteValuesSumMinimization
 |33|stringsRearrangement
 
+</font>
 
-</div>
-    
-</div>
-    
-    
-    
-<div class="flex">
-    
-<div class="table">
-<p>Through the Fog</p>
+***<font size=4>Diving Deeper</font>***
 
-| Number | Title |
-|:------------:|---------|
-|30|Circle of Numbers
-|31|depositProfit
-|32|absoluteValuesSumMinimization
-|33|stringsRearrangement
-
-</div>
-    
-<div class="table">
-<p>Diving Deeper</p>
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -125,10 +111,11 @@
 |36|differentSymbolsNaive
 |37|arrayMaxConsecutiveSum
 
-</div>
-    
-<div class="table">
-<p>Dark Wilderness</p>
+</font>
+
+***<font size=4>Dark Wilderness</font>***
+
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -137,11 +124,12 @@
 |40|longestDigitsPrefix
 |41|digitDegree
 |42|Bishop and Pawn
-
-</div>
     
-<div class="table">
-<p>Eruption of Light</p>
+</font>
+
+***<font size=4>Eruption of Light</font>***
+
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -150,11 +138,12 @@
 |45|buildPalindrome
 |46|Elections Winners
 |47|Is MAC48 Address?
-
-</div>
     
-<div class="table">
-<p>Rainbow of Clarity</p>
+</font>
+
+***<font size=4>Rainbow of Clarity</font>***
+
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -162,11 +151,12 @@
 |49|lineEncoding
 |50|chessKnight
 |51|deleteDigit
-
-</div>
     
-<div class="table">
-<p>Land of Logic</p>
+</font>
+
+***<font size=4>Land of Logic</font>***
+
+<font size=2>
 
 | Number | Title |
 |:------------:|---------|
@@ -180,38 +170,6 @@
 |59|spiralNumbers
 |60|Sudoku
 
-</div>
-    
-</div>
-    
-    
-
-</div>
+</font>
 
 
-
-<style> 
-    
-    .grid-container {
-        display: grid;
-        grid-template-columns: auto auto;
-        grid-column-gap: 10px;
-        
-    }
-    
-    .flex {
-        display: flex;
-        flex-direction: column;
-    }
-    
-    p {
-        list-style-type: None;
-        font-size: 20px;
-        font-weight: bold;
-    }  
-    
-    .table {
-        font-size: 15px;
-    }
-    
-</style>
