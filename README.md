@@ -208,7 +208,6 @@
         list-style-type: None;
         font-size: 20px;
         font-weight: bold;
-        font-style: italic;
     }  
     
     .table {
