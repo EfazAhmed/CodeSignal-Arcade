@@ -1,26 +1,45 @@
-<font size=6>CodeSignal Arcade</font>
+<!-- # Table of Conents
 
+- Intro
+    - [(1-3) The Journey Begins](#The-Journey-Begins)
+    - [(4-8) Edge of the Ocean](#Edge-of-the-Ocean)
+    - [(9-13) Smooth Sailing](#Smooth-Sailing)
+    - [(14-18) Exploring the Waters](#Exploring-the-Waters)
+    - [(19-24) Island of Knowledge](#Island-of-Knowledge)
+    - [(25-29) Rains of Reason](#Rains-of-Reason)
+    - [(30-33) Through the Fog](#Through-the-Fog)
+    - [(34-37) Diving Deeper](#Diving-Deeper)
+    - [(38-42) Dark Wilderness](#Dark-Wilderness)
+    - [(43-47) Eruption of Light](#Eruption-of-Light)
+    - [(48-51) Rainbow of Clarity](#Rainbow-of-Clarity)
+    - [(52-60) Land of Logic](#Land-of-Logic) -->
+# CodeSignal Arcade
 
-<font size=6>Intro</font>
+# Intro 
+<img src="https://cdn.dribbble.com/users/2077073/screenshots/6547756/codesignal.gif" alt="icon" width="100">
 
+#### The Journey Begins
 
-***<font size=4>The Journey Beings</font>***
+<table>
+    <tr>
+        <td colspan="2">The Journey Begins</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>add</td>
+    </tr>
+</table>
 
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |1|add
 |2|centuryFromYear
 |3|checkPalindrome
-    
-</font>
 
-***<font size=4>Edge of the Ocean</font>***
 
-<font size=2>
+#### Edge of the Ocean
 
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |4|adjacentElementsProduct
 |5|shapeArea
@@ -28,13 +47,9 @@
 |7|almostIncreasingSequence
 |8|matrixElementsSum
     
-</font>
-    
-***<font size=4>Smooth Sailing</font>***
+#### Smooth Sailing
 
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |9|All Longest Strings
 |10|commonCharacterCount
@@ -42,13 +57,9 @@
 |12|Sort by Height
 |13|reverseInParentheses
     
-</font>
-    
-***<font size=4>Exploring the Waters</font>***
+#### Exploring the Waters
 
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |14|alternatingSums
 |15|Add Border
@@ -56,13 +67,9 @@
 |17|arrayChange
 |18|palindromeRearranging
     
-</font>
+#### Island of Knowledge
 
-***<font size=4>Island of Knowledge</font>***
-
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |19|areEquallyStrong
 |20|arrayMaximalAdjacentDifference
@@ -70,14 +77,10 @@
 |22|avoidObstacles
 |23|Box Blur
 |24|Minesweeper
-    
-</font>
 
-***<font size=4>Rains of Reason</font>***
+#### Rains of Reason
 
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |25|Array Replace
 |26|evenDigitsOnly
@@ -85,80 +88,56 @@
 |28|alphabetShift
 |29|chessBoardCellColor
 
-</font>
+#### Through the Fog
 
-***<font size=4>Through the Fog</font>***
-
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |30|Circle of Numbers
 |31|depositProfit
 |32|absoluteValuesSumMinimization
 |33|stringsRearrangement
 
-</font>
+#### Diving Deeper
 
-***<font size=4>Diving Deeper</font>***
-
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |34|exactEachKth
 |35|firstDigit
 |36|differentSymbolsNaive
 |37|arrayMaxConsecutiveSum
 
-</font>
+#### Dark Wilderness
 
-***<font size=4>Dark Wilderness</font>***
-
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |38|growingPlant
 |39|Knapsack Light
 |40|longestDigitsPrefix
 |41|digitDegree
 |42|Bishop and Pawn
-    
-</font>
 
-***<font size=4>Eruption of Light</font>***
+#### Eruption of Light
 
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |43|isBeautifulString
 |44|Find Email Domain
 |45|buildPalindrome
 |46|Elections Winners
 |47|Is MAC48 Address?
-    
-</font>
 
-***<font size=4>Rainbow of Clarity</font>***
+#### Rainbow of Clarity
 
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |48|isDigit
 |49|lineEncoding
 |50|chessKnight
 |51|deleteDigit
-    
-</font>
 
-***<font size=4>Land of Logic</font>***
+#### Land of Logic
 
-<font size=2>
-
-| Number | Title |
+|#| Title |
 |:------------:|---------|
 |52|longestWord
 |53|Valid Time
@@ -170,6 +149,5 @@
 |59|spiralNumbers
 |60|Sudoku
 
-</font>
 
 
