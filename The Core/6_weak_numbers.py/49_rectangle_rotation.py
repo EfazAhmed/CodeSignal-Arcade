@@ -1,3 +1,5 @@
+import math
+
 def solution(a, b):
     count = 0
     for i in range(-(a+100), a+111):
